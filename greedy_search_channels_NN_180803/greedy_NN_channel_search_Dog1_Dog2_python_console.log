@@ -1,0 +1,502 @@
+Dog_1 testing removal of channel  5  from  [1, 2, 4, 5, 8, 9, 14, 16]
+score:  0.8134375
+-------------
+Dog_1 testing removal of channel  8  from  [1, 2, 4, 5, 8, 9, 14, 16]
+score:  0.7778125000000001
+-------------
+Dog_1 testing removal of channel  9  from  [1, 2, 4, 5, 8, 9, 14, 16]
+score:  0.8229166666666667
+-------------
+Dog_1 testing removal of channel  14  from  [1, 2, 4, 5, 8, 9, 14, 16]
+score:  0.7633333333333333
+-------------
+Dog_1 testing removal of channel  16  from  [1, 2, 4, 5, 8, 9, 14, 16]
+score:  0.8619791666666666
+-------------
+Dog_1 testing removal of channel  1  from  [1, 2, 4, 5, 8, 9, 14]
+score:  0.8105208333333334
+-------------
+Dog_1 testing removal of channel  2  from  [1, 2, 4, 5, 8, 9, 14]
+score:  0.7985416666666667
+-------------
+Dog_1 testing removal of channel  4  from  [1, 2, 4, 5, 8, 9, 14]
+score:  0.8200000000000001
+-------------
+Dog_1 testing removal of channel  5  from  [1, 2, 4, 5, 8, 9, 14]
+score:  0.7757291666666667
+-------------
+Dog_1 testing removal of channel  8  from  [1, 2, 4, 5, 8, 9, 14]
+score:  0.8726041666666667
+-------------
+Dog_1 testing removal of channel  9  from  [1, 2, 4, 5, 8, 9, 14]
+score:  0.8282291666666668
+-------------
+Dog_1 testing removal of channel  14  from  [1, 2, 4, 5, 8, 9, 14]
+score:  0.8129166666666666
+-------------
+Dog_1 testing removal of channel  1  from  [1, 2, 4, 5, 9, 14]
+score:  0.7944791666666666
+-------------
+Dog_1 testing removal of channel  2  from  [1, 2, 4, 5, 9, 14]
+score:  0.8111458333333333
+-------------
+Dog_1 testing removal of channel  4  from  [1, 2, 4, 5, 9, 14]
+score:  0.7921875
+-------------
+Dog_1 testing removal of channel  5  from  [1, 2, 4, 5, 9, 14]
+score:  0.6942708333333333
+-------------
+Dog_1 testing removal of channel  9  from  [1, 2, 4, 5, 9, 14]
+score:  0.8984375
+-------------
+Dog_1 testing removal of channel  14  from  [1, 2, 4, 5, 9, 14]
+score:  0.8295833333333335
+-------------
+Dog_1 testing removal of channel  1  from  [1, 2, 4, 5, 14]
+score:  0.7894791666666666
+-------------
+Dog_1 testing removal of channel  2  from  [1, 2, 4, 5, 14]
+ score:  0.8069791666666667
+-------------
+Dog_1 testing removal of channel  4  from  [1, 2, 4, 5, 14]
+score:  0.8403125000000001
+-------------
+Dog_1 testing removal of channel  5  from  [1, 2, 4, 5, 14]
+score:  0.8233333333333335
+-------------
+Dog_1 testing removal of channel  14  from  [1, 2, 4, 5, 14]
+score:  0.8021874999999999
+-------------
+Dog_1 testing removal of channel  1  from  [1, 2, 5, 14]
+score:  0.8179166666666667
+-------------
+Dog_1 testing removal of channel  2  from  [1, 2, 5, 14]
+score:  0.8351041666666668
+-------------
+Dog_1 testing removal of channel  5  from  [1, 2, 5, 14]
+score:  0.7715625000000002
+-------------
+Dog_1 testing removal of channel  14  from  [1, 2, 5, 14]
+score:  0.8277083333333334
+-------------
+Dog_1 testing removal of channel  1  from  [1, 5, 14]
+score:  0.81125
+-------------
+Dog_1 testing removal of channel  5  from  [1, 5, 14]
+score:  0.7494791666666667
+-------------
+Dog_1 testing removal of channel  14  from  [1, 5, 14]
+score:  0.8225
+-------------
+Dog_1 testing removal of channel  1  from  [1, 5]
+score:  0.8183333333333334
+-------------
+Dog_1 testing removal of channel  5  from  [1, 5]
+score:  0.6602083333333334
+-------------
+Dog_2 testing removal of channel  1  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.973111111111111
+-------------
+Dog_2 testing removal of channel  2  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9764722222222222
+-------------
+Dog_2 testing removal of channel  3  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9586944444444445
+-------------
+Dog_2 testing removal of channel  4  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9816944444444443
+-------------
+Dog_2 testing removal of channel  5  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.96425
+-------------
+Dog_2 testing removal of channel  6  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9781944444444445
+-------------
+Dog_2 testing removal of channel  7  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.961
+-------------
+Dog_2 testing removal of channel  8  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9600277777777778
+-------------
+Dog_2 testing removal of channel  9  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.975
+-------------
+Dog_2 testing removal of channel  10  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9560555555555557
+-------------
+Dog_2 testing removal of channel  11  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9828333333333333
+-------------
+Dog_2 testing removal of channel  12  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9778333333333332
+-------------
+Dog_2 testing removal of channel  13  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9697500000000001
+-------------
+Dog_2 testing removal of channel  14  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9585277777777778
+-------------
+Dog_2 testing removal of channel  15  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9727222222222223
+-------------
+Dog_2 testing removal of channel  16  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+score:  0.9670833333333333
+-------------
+Dog_2 testing removal of channel  1  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9856944444444444
+-------------
+Dog_2 testing removal of channel  2  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9820555555555555
+-------------
+Dog_2 testing removal of channel  3  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9761111111111112
+-------------
+Dog_2 testing removal of channel  4  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9671666666666667
+-------------
+Dog_2 testing removal of channel  5  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9639166666666668
+-------------
+Dog_2 testing removal of channel  6  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9733333333333333
+-------------
+Dog_2 testing removal of channel  7  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.975611111111111
+-------------
+Dog_2 testing removal of channel  8  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9844722222222222
+-------------
+Dog_2 testing removal of channel  9  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9748055555555555
+-------------
+Dog_2 testing removal of channel  10  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.97325
+-------------
+Dog_2 testing removal of channel  12  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9705
+-------------
+Dog_2 testing removal of channel  13  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9761666666666666
+-------------
+Dog_2 testing removal of channel  14  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9737777777777777
+-------------
+Dog_2 testing removal of channel  15  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9739722222222224
+-------------
+Dog_2 testing removal of channel  16  from  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9541388888888889
+-------------
+Dog_2 testing removal of channel  2  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9817499999999999
+-------------
+Dog_2 testing removal of channel  3  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9793055555555557
+-------------
+Dog_2 testing removal of channel  4  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9731944444444445
+-------------
+Dog_2 testing removal of channel  5  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9798333333333333
+-------------
+Dog_2 testing removal of channel  6  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9633055555555556
+-------------
+Dog_2 testing removal of channel  7  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9730555555555556
+-------------
+Dog_2 testing removal of channel  8  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9746111111111111
+-------------
+Dog_2 testing removal of channel  9  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9632222222222222
+-------------
+Dog_2 testing removal of channel  10  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9725555555555555
+-------------
+Dog_2 testing removal of channel  12  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9501111111111111
+-------------
+Dog_2 testing removal of channel  13  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9783888888888889
+-------------
+Dog_2 testing removal of channel  14  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.978111111111111
+-------------
+Dog_2 testing removal of channel  15  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.9863611111111112
+-------------
+Dog_2 testing removal of channel  16  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+score:  0.97725
+-------------
+Dog_2 testing removal of channel  2  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9620833333333334
+-------------
+Dog_2 testing removal of channel  3  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9403055555555555
+-------------
+Dog_2 testing removal of channel  4  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9749166666666668
+-------------
+Dog_2 testing removal of channel  5  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9525277777777778
+-------------
+Dog_2 testing removal of channel  6  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.96075
+-------------
+Dog_2 testing removal of channel  7  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9776111111111112
+-------------
+Dog_2 testing removal of channel  8  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9726111111111111
+-------------
+Dog_2 testing removal of channel  9  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9723333333333333
+-------------
+Dog_2 testing removal of channel  10  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9639444444444443
+-------------
+Dog_2 testing removal of channel  12  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9310277777777778
+-------------
+Dog_2 testing removal of channel  13  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9516666666666665
+-------------
+Dog_2 testing removal of channel  14  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9593055555555555
+-------------
+Dog_2 testing removal of channel  16  from  [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9751388888888888
+-------------
+Dog_2 testing removal of channel  2  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9768888888888888
+-------------
+Dog_2 testing removal of channel  3  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9777222222222223
+-------------
+Dog_2 testing removal of channel  4  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9673888888888887
+-------------
+Dog_2 testing removal of channel  5  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9666111111111111
+-------------
+Dog_2 testing removal of channel  6  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9590555555555556
+-------------
+Dog_2 testing removal of channel  8  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9762222222222222
+-------------
+Dog_2 testing removal of channel  9  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9570555555555555
+-------------
+Dog_2 testing removal of channel  10  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9669166666666668
+-------------
+Dog_2 testing removal of channel  12  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9633888888888889
+-------------
+Dog_2 testing removal of channel  13  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.968
+-------------
+Dog_2 testing removal of channel  14  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9691944444444445
+-------------
+Dog_2 testing removal of channel  16  from  [2, 3, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9669444444444444
+-------------
+Dog_2 testing removal of channel  2  from  [2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9736666666666667
+-------------
+Dog_2 testing removal of channel  4  from  [2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9741666666666667
+-------------
+Dog_2 testing removal of channel  5  from  [2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9645277777777779
+-------------
+Dog_2 testing removal of channel  6  from  [2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9598611111111112
+-------------
+Dog_2 testing removal of channel  8  from  [2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9794166666666666
+-------------
+Dog_2 testing removal of channel  9  from  [2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9817777777777777
+-------------
+Dog_2 testing removal of channel  10  from  [2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9629722222222222
+-------------
+Dog_2 testing removal of channel  12  from  [2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9666388888888889
+-------------
+Dog_2 testing removal of channel  13  from  [2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9619444444444444
+-------------
+Dog_2 testing removal of channel  14  from  [2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.9612777777777778
+-------------
+Dog_2 testing removal of channel  16  from  [2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 16]
+score:  0.967388888888889
+-------------
+Dog_2 testing removal of channel  2  from  [2, 4, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9700555555555557
+-------------
+Dog_2 testing removal of channel  4  from  [2, 4, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9767777777777779
+-------------
+Dog_2 testing removal of channel  5  from  [2, 4, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9536666666666667
+-------------
+Dog_2 testing removal of channel  6  from  [2, 4, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9553055555555556
+-------------
+Dog_2 testing removal of channel  8  from  [2, 4, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9714166666666666
+-------------
+Dog_2 testing removal of channel  10  from  [2, 4, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9730277777777777
+-------------
+Dog_2 testing removal of channel  12  from  [2, 4, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9641388888888889
+-------------
+Dog_2 testing removal of channel  13  from  [2, 4, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9646944444444443
+-------------
+Dog_2 testing removal of channel  14  from  [2, 4, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.967
+-------------
+Dog_2 testing removal of channel  16  from  [2, 4, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9492777777777779
+-------------
+Dog_2 testing removal of channel  2  from  [2, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9693888888888889
+-------------
+Dog_2 testing removal of channel  5  from  [2, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9345277777777777
+-------------
+Dog_2 testing removal of channel  6  from  [2, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9665000000000001
+-------------
+Dog_2 testing removal of channel  8  from  [2, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9555555555555555
+-------------
+Dog_2 testing removal of channel  10  from  [2, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9635833333333335
+-------------
+Dog_2 testing removal of channel  12  from  [2, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9670277777777778
+-------------
+Dog_2 testing removal of channel  13  from  [2, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9670277777777777
+-------------
+Dog_2 testing removal of channel  14  from  [2, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9579166666666667
+-------------
+Dog_2 testing removal of channel  16  from  [2, 5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9591111111111111
+-------------
+Dog_2 testing removal of channel  5  from  [5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9301111111111112
+-------------
+Dog_2 testing removal of channel  6  from  [5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9464722222222223
+-------------
+Dog_2 testing removal of channel  8  from  [5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9560000000000001
+-------------
+Dog_2 testing removal of channel  10  from  [5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9412777777777779
+-------------
+Dog_2 testing removal of channel  12  from  [5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9577500000000001
+-------------
+Dog_2 testing removal of channel  13  from  [5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9767222222222223
+-------------
+Dog_2 testing removal of channel  14  from  [5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9543333333333333
+-------------
+Dog_2 testing removal of channel  16  from  [5, 6, 8, 10, 12, 13, 14, 16]
+score:  0.9561388888888889
+-------------
+Dog_2 testing removal of channel  5  from  [5, 6, 8, 10, 12, 14, 16]
+score:  0.9489444444444445
+-------------
+Dog_2 testing removal of channel  6  from  [5, 6, 8, 10, 12, 14, 16]
+score:  0.9567361111111111
+-------------
+Dog_2 testing removal of channel  8  from  [5, 6, 8, 10, 12, 14, 16]
+score:  0.9407777777777777
+-------------
+Dog_2 testing removal of channel  10  from  [5, 6, 8, 10, 12, 14, 16]
+score:  0.9791666666666666
+-------------
+Dog_2 testing removal of channel  12  from  [5, 6, 8, 10, 12, 14, 16]
+score:  0.9441666666666666
+-------------
+Dog_2 testing removal of channel  14  from  [5, 6, 8, 10, 12, 14, 16]
+score:  0.9648888888888887
+-------------
+Dog_2 testing removal of channel  16  from  [5, 6, 8, 10, 12, 14, 16]
+score:  0.9583611111111111
+-------------
+Dog_2 testing removal of channel  5  from  [5, 6, 8, 12, 14, 16]
+score:  0.9497499999999999
+-------------
+Dog_2 testing removal of channel  6  from  [5, 6, 8, 12, 14, 16]
+score:  0.9478055555555555
+-------------
+Dog_2 testing removal of channel  8  from  [5, 6, 8, 12, 14, 16]
+score:  0.9584722222222222
+-------------
+Dog_2 testing removal of channel  12  from  [5, 6, 8, 12, 14, 16]
+score:  0.9429583333333333
+-------------
+Dog_2 testing removal of channel  14  from  [5, 6, 8, 12, 14, 16]
+score:  0.9547777777777776
+-------------
+Dog_2 testing removal of channel  16  from  [5, 6, 8, 12, 14, 16]
+score:  0.9543333333333333
+-------------
+Dog_2 testing removal of channel  16  from  [16, 14, 12, 5, 6]
+score:  0.9660833333333333
+-------------
+Dog_2 testing removal of channel  14  from  [16, 14, 12, 5, 6]
+score:  0.9551388888888889
+-------------
+Dog_2 testing removal of channel  12  from  [16, 14, 12, 5, 6]
+score:  0.946
+-------------
+Dog_2 testing removal of channel  5  from  [16, 14, 12, 5, 6]
+score:  0.9403055555555557
+-------------
+Dog_2 testing removal of channel  6  from  [16, 14, 12, 5, 6]
+score:  0.9354444444444445
+-------------
+Dog_2 testing removal of channel  14  from  [14, 12, 5, 6]
+score:  0.9194722222222221
+-------------
+Dog_2 testing removal of channel  12  from  [14, 12, 5, 6]
+score:  0.9106666666666665
+-------------
+Dog_2 testing removal of channel  5  from  [14, 12, 5, 6]
+score:  0.9080555555555556
+-------------
+Dog_2 testing removal of channel  6  from  [14, 12, 5, 6]
+score:  0.9308333333333334
+-------------
+Dog_2 testing removal of channel  12  from  [12, 5, 14]
+score:  0.9182222222222223
+-------------
+Dog_2 testing removal of channel  5  from  [12, 5, 14]
+score:  0.8551944444444445
+-------------
+Dog_2 testing removal of channel  14  from  [12, 5, 14]
+score:  0.889861111111111
+-------------
+Dog_2 testing removal of channel  5  from  [5, 14]
+score:  0.8097777777777777
+-------------
+Dog_2 testing removal of channel  14  from  [5, 14]
+score:  0.8871944444444445
+
+
